@@ -3,6 +3,7 @@ Target website: https://www.icd10data.com/ICD10CM/Codes
 
 ## Goal
 I want to obtain data in the form of:
+
 code| description
 ---| ---
 code_1| description_1
